@@ -2,9 +2,9 @@
 
 - 🙋‍ I am a chef, marketer, finance clerk, investor, actor and now early stage **web developer**.
 
-- 🛠 I'm currently working in social media app [COOK-IT](https://github.com/abel-parada/COOK-IT).
+- 🛠 Currently involved in the social media app [COOK-IT](https://github.com/abel-parada/COOK-IT).
 
-- 🌱 I’m currently studying to become a FullStack Developer at Business School Helsinki.
+- 🌱 Studying to FullStack Developer at Business School Helsinki.
 
 - 📫 Reach me at abel.parada.millan@gmail.com | https://www.linkedin.com/in/abelparadamillan/
 
