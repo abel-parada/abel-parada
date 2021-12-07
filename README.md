@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently studying to become a FullStack Developer at Business School Helsinki.
-- 
+
 
 ### Technologies:
 
@@ -15,9 +15,23 @@
 | React  |
 | Node  |
 | Express  |
+| Redux  |
+| Typescript  |
+| Data Structures  |
 
 
-- ❤️ I’m looking for help with FOSS projects to be able to contribute to the community.
+### Check my projects
+
+| Finnished| On-going|
+| ------------- | ------------- |
+| [Countries APP](https://github.com/abel-parada/countries) |
+| [Speed Test Game](https://github.com/abel-parada/speed-test) |
+| [Show me the money form](https://github.com/abel-parada/Form-using-react)  |
+| [Animals App](https://github.com/abel-parada/animals)  |
+| [Counter App](https://github.com/abel-parada/counter)  |
+
+
+- ❤️ I’m looking forward to be able to contribute to FOSS projects and even create my own one.
 
 - 📫 How to reach me at abel.parada.millan@gmail.com
 
