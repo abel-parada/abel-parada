@@ -24,7 +24,7 @@
 
 | Finnished| On-going|
 | ------------- | ------------- |
-| [Countries APP](https://github.com/abel-parada/countries) |
+| [Countries APP](https://github.com/abel-parada/countries) | [COOK-IT](https://github.com/abel-parada/COOK-IT)|
 | [Speed Test Game](https://github.com/abel-parada/speed-test) |
 | [Show me the money form](https://github.com/abel-parada/Form-using-react)  |
 | [Animals App](https://github.com/abel-parada/animals)  |
@@ -34,6 +34,3 @@
 - ❤️ I’m looking forward to be able to contribute to FOSS projects and even create my own one.
 
 - 📫 How to reach me at abel.parada.millan@gmail.com
-
-- ⚡ Fun fact: ...
-
