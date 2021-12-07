@@ -6,10 +6,12 @@
 
 - 🌱 I’m currently studying to become a FullStack Developer at Business School Helsinki.
 
-- 📫 Reach me at abel.parada.millan@gmail.com
+- 📫 Reach me at abel.parada.millan@gmail.com | https://www.linkedin.com/in/abelparadamillan/
 
 
 ### Technologies:
+
+<p><img width="55%" align="right" alt="abel-parada's github stats" src="https://github-readme-stats.vercel.app/api?username=abel-parada&show_icons=true&hide_border=true" /></p>
 
 | Learning |
 | ------------- |
@@ -32,7 +34,3 @@
 | [Show me the money form](https://github.com/abel-parada/Form-using-react)  |
 | [Animals App](https://github.com/abel-parada/animals)  |
 | [Counter App](https://github.com/abel-parada/counter)  |
-
-<p><img width="55%" align="right" alt="abel-parada's github stats" src="https://github-readme-stats.vercel.app/api?username=abel-parada&show_icons=true&hide_border=true" /></p>
-
-<p><code><img height="30"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></code></p>
