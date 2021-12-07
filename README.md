@@ -4,7 +4,7 @@
 
 - 🛠 Currently involved in the social media app [COOK-IT](https://github.com/abel-parada/COOK-IT).
 
-- 🌱 Studying to FullStack Developer at Business School Helsinki.
+- 🌱 Studying FullStack Developer at Business School Helsinki.
 
 - 📫 Reach me at abel.parada.millan@gmail.com | https://www.linkedin.com/in/abelparadamillan/
 
