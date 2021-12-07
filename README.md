@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**abel-parada/abel-parada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙋‍ I am a chef, marketer, finance clerk, investor, actor and now early stage **web developer**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently studying to become a FullStack Developer at Business School Helsinki.
+- 
+
+### Technologies:
+
+| Learning |
+| ------------- |
+| HTML/CSS  |
+| JavaScript  |
+| React  |
+| Node  |
+| Express  |
+
+
+- ❤️ I’m looking for help with FOSS projects to be able to contribute to the community.
+
+- 📫 How to reach me at abel.parada.millan@gmail.com
+
 - ⚡ Fun fact: ...
--->
+
