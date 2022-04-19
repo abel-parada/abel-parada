@@ -6,7 +6,7 @@
 
 - 🌱 Studying [FullStack Developer Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at Business School Helsinki.
 
-- 📫 Reach me at abel.parada.millan@proton.me
+- 📫 Reach me at dev@abelparada.com
 
 <!--
 | Learning |
