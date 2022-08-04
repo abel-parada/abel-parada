@@ -2,9 +2,11 @@
 
 - 🙋‍ I am a chef on a journey to become a **WEB DEVELOPER**.
 
-- 🛠 Currently involved in the social media app [COOK-IT](https://github.com/abel-parada/COOK-IT).
+- 🛠 Currently working as full stack at [NOKIA](https://www.nokia.com/).
 
-- 🌱 Studying [FullStack Developer Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at Business School Helsinki.
+- 🌱 Studying [FullStackOpen](https://fullstackopen.com/en/) course made by University of Helsinki.
+
+- 👨‍💻 Completing [FullStack Developer Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at Business College Helsinki.
 
 - 📫 Reach me at dev@abelparada.com
 
