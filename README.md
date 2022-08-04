@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙋‍ I am a chef on a journey to become a **WEB DEVELOPER**.
+- 🙋‍ I am on a journey to become a **WEB DEVELOPER**.
 
 - 🛠 Currently working as full stack at [NOKIA](https://www.nokia.com/).
 
