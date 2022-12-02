@@ -2,11 +2,11 @@
 
 - 🙋‍ I am a **WEB DEVELOPER**.
 
-- 🛠 Currently working as full stack at [NOKIA](https://www.nokia.com/).
+- 🛠 Currently working as full stack software developer at [NOKIA](https://www.nokia.com/).
 
 - 🌱 Studying [FullStackOpen](https://fullstackopen.com/en/) course made by University of Helsinki.
 
-- 👨‍💻 Completing [FullStack Developer Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at Business College Helsinki.
+- 👨‍💻 Completed [Full Stack Developer Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at Business College Helsinki.
 
 - 📫 Reach me at dev@abelparada.com
 
