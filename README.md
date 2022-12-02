@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙋‍ I am a **WEB DEVELOPER**.
+- 🙋‍ I am a **SOFTWARE DEVELOPER**.
 
 - 🛠 Currently working as full stack software developer at [NOKIA](https://www.nokia.com/).
 
