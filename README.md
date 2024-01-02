@@ -2,7 +2,7 @@
 
 - 🙋‍ I am a **DEVELOPER**.
 
-- 🛠 Currently working as full stack software developer at [NOKIA](https://www.nokia.com/).
+- 🛠 Currently working as Software Engineer at [NOKIA](https://www.nokia.com/).
 
 - 🌱 Studying [FullStackOpen](https://fullstackopen.com/en/) course made by University of Helsinki.
 
